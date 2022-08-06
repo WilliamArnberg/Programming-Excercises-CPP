@@ -95,6 +95,4 @@ int main() {
 
 	cout << "The value of all your coins is " << centSum << " cents." << endl;
 	cout << "That's a total of $" << dollarSum << ".";
-
-
 }
